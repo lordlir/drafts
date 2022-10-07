@@ -50,7 +50,7 @@ svg {
 /*стилі шапки(header)*/
 .page-header {
   position: sticky;
-  z-index: 100px;
+  z-index: 100;
   top: 0;
   background-color: var(--background-main);
   border-bottom: 1px solid #ececec;
